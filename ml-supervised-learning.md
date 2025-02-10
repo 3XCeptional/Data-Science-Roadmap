@@ -87,3 +87,11 @@ print(f'Accuracy: {accuracy}') # How often is the classifier correct?
 *   Understand the bias-variance tradeoff and avoid overfitting.
 
 ## Author - 3XCeptional
+
+---
+
+## Navigation
+
+**Starting Point:** [Phase 2: Core Skills - Machine Learning](core-skills-machine-learning.md) - Back to Machine Learning core skills.
+
+**Ending Point:** [Phase 2: Core Skills - Machine Learning - Unsupervised Learning](ml-unsupervised-learning.md) - Continue to the next sub-topic: Unsupervised Learning.

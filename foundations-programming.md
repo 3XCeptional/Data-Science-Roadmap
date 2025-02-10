@@ -63,6 +63,7 @@ plt.show()
 *   Python documentation (docs.python.org)
 *   "Python for Data Analysis" by Wes McKinney
 *   "Automate the Boring Stuff with Python" by Al Sweigart
+*   [Python Tips and Tricks](tips-and-tricks-python.md) - Enhance your Python skills with these tips and tricks.
 
 ### Best Practices
 

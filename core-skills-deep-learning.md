@@ -56,3 +56,11 @@ Convolutions in CNNs are like sliding filters over images to detect patterns (ed
 *   Join the DL Community: Connect with the Deep Learning community, share your learnings, and collaborate with fellow DL enthusiasts. The DL community is vast and vibrant! 🧑‍🤝‍🧑
 
 ## Author - 3XCeptional
+
+---
+
+## Navigation
+
+**Starting Point:** [Phase 2: Core Skills - Machine Learning](core-skills-machine-learning.md) - Previous topic: Machine Learning.
+
+**Ending Point:** [Phase 3: Advanced Topics - MLOps](advanced-topics-mlops.md) - Continue to Phase 3: Advanced Topics - MLOps.

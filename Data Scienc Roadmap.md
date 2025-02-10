@@ -9,6 +9,14 @@ This roadmap provides a comprehensive guide for aspiring and experienced data sc
 1.  **Phase 1: Foundations**
     *   Mathematics
     *   Programming
+    *   Mathematics
+        *   Skills: Linear algebra, calculus, statistics, probability.
+        *   Technologies: Not applicable (foundational knowledge).
+        *   Resources: Khan Academy, MIT OpenCourseware, textbooks.
+    *   Programming
+        *   Skills: Python (or R), version control (Git), data structures, algorithms.
+        *   Technologies: Python, Jupyter Notebooks, Git, VS Code.
+        *   Resources: Online courses (e.g., Codecademy, freeCodeCamp), documentation, practice projects.
     *   Data Manipulation
         *   Skills: Data cleaning, data wrangling, exploratory data analysis (EDA), data visualization.
         *   Technologies: Pandas, NumPy, SQL, data visualization libraries (Matplotlib, Seaborn, Plotly).

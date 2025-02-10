@@ -92,3 +92,11 @@ plt.show() # Show the plot - ta-da! 🎉
 **Starting Point:** [Phase 1: Foundations - Mathematics](foundations-mathematics.md) - Previous topic: Mathematics.
 
 **Ending Point:** [Phase 1: Foundations - Data Manipulation](foundations-data-manipulation.md) - Continue to the next topic: Data Manipulation.
+
+---
+
+## Navigation
+
+**Starting Point:** [Phase 1: Foundations - Mathematics](foundations-mathematics.md) - Previous topic: Mathematics.
+
+**Ending Point:** [Phase 1: Foundations - Data Manipulation](foundations-data-manipulation.md) - Continue to the next topic: Data Manipulation.

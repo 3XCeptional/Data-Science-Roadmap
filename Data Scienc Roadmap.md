@@ -43,7 +43,7 @@ Welcome to your friendly guide to conquering the Data Science world in 2025! Thi
 *   [Edge AI](emerging-trends-edge-ai.md): Running AI models on edge devices for real-time processing and reduced latency.
 *   [Automated Machine Learning (AutoML)](emerging-trends-automl.md): Automating the machine learning pipeline, including feature engineering, model selection, and hyperparameter tuning.
 *   [Reinforcement Learning](emerging-trends-reinforcement-learning.md): Training agents to make decisions in an environment to maximize a reward.
-*   **Generative AI:** Creating new data, such as images, text, and audio, using generative models.
+*   [Generative AI](emerging-trends-generative-ai.md): Creating new data, such as images, text, and audio, using generative models.
 *   **Quantum Machine Learning:** Exploring the use of quantum computers for machine learning tasks.
 
 ## Author - 3XCeptional

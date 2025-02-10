@@ -17,13 +17,8 @@ This roadmap provides a comprehensive guide for aspiring and experienced data sc
         *   Best Practices: Understand data types and structures, document data cleaning steps, visualize data to gain insights.
 
 2.  **Phase 2: Core Skills**
-    *   Machine Learning
-        *   Skills: Supervised learning (regression, classification), unsupervised learning (clustering, dimensionality reduction), model evaluation, hyperparameter tuning.
-        *   Technologies: Scikit-learn, TensorFlow, PyTorch.
-        *   Resources: Online courses (e.g., fast.ai, Udacity), textbooks, research papers.
-        *   Recommended Tools: Scikit-learn, XGBoost, LightGBM, Optuna.
-        *   Best Practices: Start with simple models, understand model assumptions, properly validate models, focus on feature engineering.
-    *   Deep Learning
+    *   [Machine Learning](core-skills-machine-learning.md)
+    *   [Deep Learning](core-skills-deep-learning.md)
         *   Skills: Neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), natural language processing (NLP), computer vision.
         *   Technologies: TensorFlow, PyTorch, Keras.
         *   Resources: Online courses (e.g., DeepLearning.AI, MIT Deep Learning), research papers.

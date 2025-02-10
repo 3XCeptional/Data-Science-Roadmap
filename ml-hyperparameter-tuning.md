@@ -183,3 +183,11 @@ print('Test Accuracy with Optuna Best Model:', test_accuracy_optuna)
 **Starting Point:** [Phase 2: Core Skills - Machine Learning - Model Evaluation](ml-model-evaluation.md) - Previous sub-topic: Model Evaluation.
 
 **Ending Point:** [Phase 2: Core Skills - Deep Learning](core-skills-deep-learning.md) - Continue to the next topic: Deep Learning.
+
+---
+
+## Navigation
+
+**Starting Point:** [Phase 2: Core Skills - Machine Learning - Model Evaluation](ml-model-evaluation.md) - Previous sub-topic: Model Evaluation.
+
+**Ending Point:** [Phase 2: Core Skills - Deep Learning](core-skills-deep-learning.md) - Continue to the next topic: Deep Learning.

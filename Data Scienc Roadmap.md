@@ -63,3 +63,5 @@ This roadmap provides a comprehensive guide for aspiring and experienced data sc
 *   **Reinforcement Learning:** Training agents to make decisions in an environment to maximize a reward.
 *   **Generative AI:** Creating new data, such as images, text, and audio, using generative models.
 *   **Quantum Machine Learning:** Exploring the use of quantum computers for machine learning tasks.
+
+## Author - 3XCeptional

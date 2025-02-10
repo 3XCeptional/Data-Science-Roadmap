@@ -16,7 +16,7 @@ This roadmap is organized into three key phases, covering everything from founda
 
 ### Navigating the Roadmap
 
-To get started, explore the [Data Science Roadmap 2025](Data Scienc Roadmap.md) main page, which provides a comprehensive index and links to all sections and sub-topics. Each section and sub-topic has its own dedicated page with in-depth explanations, code examples, recommended resources, and best practices.
+To get started, explore the [Data Science Roadmap 2025](Data Scienc Roadmap.md) main page, which provides a comprehensive index and links to all sections and sub-topics. You can access the main roadmap here: [Data Science Roadmap 2025](Data Scienc Roadmap.md). Each section and sub-topic has its own dedicated page with in-depth explanations, code examples, recommended resources, and best practices.
 
 ### Who is This Roadmap For?
 

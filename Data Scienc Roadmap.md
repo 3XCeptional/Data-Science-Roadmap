@@ -47,3 +47,6 @@ Welcome to your friendly guide to conquering the Data Science world in 2025! Thi
 *   [Quantum Machine Learning](emerging-trends-quantum-ml.md): Exploring the use of quantum computers for machine learning tasks.
 
 ## Author - 3XCeptional
+
+---
+**Special thanks to Gemini 2.0 Flash for handling the heavy lifting, which has enabled me to provide this valuable resource completely free of charge.**

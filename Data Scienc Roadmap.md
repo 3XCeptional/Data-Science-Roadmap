@@ -26,6 +26,12 @@ This roadmap provides a comprehensive guide for aspiring and experienced data sc
 
 3.  **Phase 3: Advanced Topics**
     *   MLOps
+        *   Skills: Model deployment, model monitoring, CI/CD for ML, experiment tracking, model versioning.
+        *   Technologies: Kubeflow, MLflow, Docker, Kubernetes, cloud platforms (AWS, Azure, GCP).
+        *   Resources: Online courses, documentation, case studies.
     *   Real-World Projects
+        *   Skills: Project management, communication, domain expertise, problem-solving.
+        *   Technologies: Varies depending on the project.
+        *   Resources: Kaggle, GitHub, industry publications.
 
 ## Emerging Trends and Technologies

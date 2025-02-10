@@ -10,6 +10,9 @@ This roadmap provides a comprehensive guide for aspiring and experienced data sc
     *   Mathematics
     *   Programming
     *   Data Manipulation
+        *   Skills: Data cleaning, data wrangling, exploratory data analysis (EDA), data visualization.
+        *   Technologies: Pandas, NumPy, SQL, data visualization libraries (Matplotlib, Seaborn, Plotly).
+        *   Resources: Online courses (e.g., DataCamp, Coursera), documentation, books.
 
 2.  **Phase 2: Core Skills**
     *   Machine Learning

@@ -26,13 +26,8 @@ This roadmap provides a comprehensive guide for aspiring and experienced data sc
         *   Best Practices: Experiment with different architectures, use GPUs for training, monitor training progress, handle overfitting.
 
 3.  **Phase 3: Advanced Topics**
-    *   MLOps
-        *   Skills: Model deployment, model monitoring, CI/CD for ML, experiment tracking, model versioning.
-        *   Technologies: Kubeflow, MLflow, Docker, Kubernetes, cloud platforms (AWS, Azure, GCP).
-        *   Resources: Online courses, documentation, case studies.
-        *   Recommended Tools: Kubeflow, MLflow, Jenkins, GitLab CI, Docker, Kubernetes, Argo CD.
-        *   Best Practices: Automate ML pipeline, monitor model performance in production, implement CI/CD for ML, ensure model reproducibility, implement robust monitoring and alerting.
-    *   Real-World Projects
+    *   [MLOps](advanced-topics-mlops.md)
+    *   [Real-World Projects](advanced-topics-real-world-projects.md)
         *   Skills: Project management, communication, domain expertise, problem-solving.
         *   Technologies: Varies depending on the project.
         *   Resources: Kaggle, GitHub, industry publications.

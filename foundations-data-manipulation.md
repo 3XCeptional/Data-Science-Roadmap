@@ -62,6 +62,7 @@ plt.show()
 *   Pandas documentation (pandas.pydata.org/docs/)
 *   "Python for Data Analysis" by Wes McKinney (covers Pandas extensively)
 *   "Storytelling with Data" by Cole Nussbaumer Knaflic (for data visualization)
+*   [Pandas Tips and Tricks](tips-and-tricks-pandas.md) - Become a Pandas power user with these tips and tricks.
 
 ### Best Practices
 

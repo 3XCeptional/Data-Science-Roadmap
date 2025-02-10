@@ -38,7 +38,7 @@ Welcome to your friendly guide to conquering the Data Science world in 2025! Thi
 
 ## Emerging Trends and Technologies
 
-*   **Explainable AI (XAI):** Techniques to make machine learning models more transparent and understandable.
+*   [Explainable AI (XAI)](emerging-trends-xai.md): Techniques to make machine learning models more transparent and understandable.
 *   **Federated Learning:** Training models on decentralized data sources while preserving data privacy.
 *   **Edge AI:** Running AI models on edge devices for real-time processing and reduced latency.
 *   **Automated Machine Learning (AutoML):** Automating the machine learning pipeline, including feature engineering, model selection, and hyperparameter tuning.

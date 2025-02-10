@@ -40,7 +40,7 @@ Welcome to your friendly guide to conquering the Data Science world in 2025! Thi
 
 *   [Explainable AI (XAI)](emerging-trends-xai.md): Techniques to make machine learning models more transparent and understandable.
 *   [Federated Learning](emerging-trends-federated-learning.md): Training models on decentralized data sources while preserving data privacy.
-*   **Edge AI:** Running AI models on edge devices for real-time processing and reduced latency.
+*   [Edge AI](emerging-trends-edge-ai.md): Running AI models on edge devices for real-time processing and reduced latency.
 *   **Automated Machine Learning (AutoML):** Automating the machine learning pipeline, including feature engineering, model selection, and hyperparameter tuning.
 *   **Reinforcement Learning:** Training agents to make decisions in an environment to maximize a reward.
 *   **Generative AI:** Creating new data, such as images, text, and audio, using generative models.

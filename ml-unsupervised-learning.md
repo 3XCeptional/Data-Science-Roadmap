@@ -104,3 +104,11 @@ plt.show()
 **Starting Point:** [Phase 2: Core Skills - Machine Learning - Supervised Learning](ml-supervised-learning.md) - Previous sub-topic: Supervised Learning.
 
 **Ending Point:** [Phase 2: Core Skills - Machine Learning - Model Evaluation](ml-model-evaluation.md) - Continue to the next sub-topic: Model Evaluation.
+
+---
+
+## Navigation
+
+**Starting Point:** [Phase 2: Core Skills - Machine Learning - Supervised Learning](ml-supervised-learning.md) - Previous sub-topic: Supervised Learning.
+
+**Ending Point:** [Phase 2: Core Skills - Machine Learning - Model Evaluation](ml-model-evaluation.md) - Continue to the next sub-topic: Model Evaluation.

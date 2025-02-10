@@ -143,3 +143,11 @@ print('Average MSE:', -mse_scores.mean()) # Average MSE across folds - robust es
 *   Don't Just Chase Metrics: Evaluation is about understanding your model's strengths and weaknesses, not just getting a high score.
 
 ## Author - 3XCeptional
+
+---
+
+## Navigation
+
+**Starting Point:** [Phase 2: Core Skills - Machine Learning - Unsupervised Learning](ml-unsupervised-learning.md) - Previous sub-topic: Unsupervised Learning.
+
+**Ending Point:** [Phase 2: Core Skills - Machine Learning - Hyperparameter Tuning](ml-hyperparameter-tuning.md) - Continue to the next sub-topic: Hyperparameter Tuning.

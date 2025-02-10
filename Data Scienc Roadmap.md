@@ -76,3 +76,11 @@ Welcome to your friendly guide to conquering the Data Science world in 2025! Thi
 
 ---
 **Special thanks to Gemini 2.0 Flash for handling the heavy lifting, which has enabled me to provide this valuable resource completely free of charge.**
+
+---
+
+## Navigation
+
+**Starting Point:** [README.md](README.md) - Project overview and starting guide.
+
+**Ending Point:** [Phase 1: Foundations - Mathematics](foundations-mathematics.md) - Begin your math journey here.

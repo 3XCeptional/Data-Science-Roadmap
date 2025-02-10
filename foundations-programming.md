@@ -84,3 +84,11 @@ plt.show() # Show the plot - ta-da! 🎉
 *   Join the Python Community: Engage with the Python community online (forums, Stack Overflow, meetups). Learn from others, ask questions, and share your knowledge. Community learning is powerful! 🧑‍🤝‍🧑
 
 ## Author - 3XCeptional
+
+---
+
+## Navigation
+
+**Starting Point:** [Phase 1: Foundations - Mathematics](foundations-mathematics.md) - Previous topic: Mathematics.
+
+**Ending Point:** [Phase 1: Foundations - Data Manipulation](foundations-data-manipulation.md) - Continue to the next topic: Data Manipulation.

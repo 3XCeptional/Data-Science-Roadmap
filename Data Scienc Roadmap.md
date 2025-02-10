@@ -42,7 +42,7 @@ Welcome to your friendly guide to conquering the Data Science world in 2025! Thi
 *   [Federated Learning](emerging-trends-federated-learning.md): Training models on decentralized data sources while preserving data privacy.
 *   [Edge AI](emerging-trends-edge-ai.md): Running AI models on edge devices for real-time processing and reduced latency.
 *   [Automated Machine Learning (AutoML)](emerging-trends-automl.md): Automating the machine learning pipeline, including feature engineering, model selection, and hyperparameter tuning.
-*   **Reinforcement Learning:** Training agents to make decisions in an environment to maximize a reward.
+*   [Reinforcement Learning](emerging-trends-reinforcement-learning.md): Training agents to make decisions in an environment to maximize a reward.
 *   **Generative AI:** Creating new data, such as images, text, and audio, using generative models.
 *   **Quantum Machine Learning:** Exploring the use of quantum computers for machine learning tasks.
 

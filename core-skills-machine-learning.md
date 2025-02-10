@@ -33,12 +33,13 @@ There's no one-size-fits-all ML algorithm. Different algorithms work better for 
 *   Online courses:
     *   Machine Learning by Andrew Ng on Coursera - The OG Machine Learning course.
     *   Udacity Machine Learning Nanodegree - Career-focused and practical.
-    *   DataCamp &
+    *   DataCamp & Coursera SkillTracks - Bite-sized learning for specific skills.
 *   Books:
     *   "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow" by Aurélien Géron - Practical and comprehensive.
     *   "The Elements of Statistical Learning" by Hastie, Tibshirani, and Friedman - More theoretical, for the math-inclined.
-*   Scikit-learn documentation (scikit-learn.org/stable/) - The official guide is your friend.
-*   Kaggle Learn (www.kaggle.com/learn) - Interactive tutorials and notebooks to get hands-on.
+    *   Scikit-learn documentation (scikit-learn.org/stable/) - The official guide is your friend.
+    *   Kaggle Learn (www.kaggle.com/learn) - Interactive tutorials and notebooks to get hands-on.
+    *   [Scikit-learn Tips and Tricks](tips-and-tricks-scikit-learn.md) - Boost your Scikit-learn skills with these pro tips.
 
 ### Best Practices - ML Wisdom Nuggets 🧠
 

@@ -58,7 +58,7 @@ import seaborn as sns # Import Seaborn - your data visualization artist
 import matplotlib.pyplot as plt # Import matplotlib for extra plot customization
 import pandas as pd
 
-# Sample DataFrame - assuming 'df' is your cleaned data from above
+# Sample DataFrame - assuming 'df' is already created as in the previous snippet)
 
 # Create a bar chart - visualize 'Value' for each 'Category'
 sns.barplot(x='Category', y='Value', data=df) # Create the bar chart

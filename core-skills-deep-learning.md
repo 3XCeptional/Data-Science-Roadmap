@@ -94,6 +94,7 @@ model.summary()
 *   "Deep Learning" Book by Goodfellow, Bengio, and Courville - The bible of deep learning, get ready for some math!
 *   Research Papers: ArXiv Sanity Preserver (arxiv-sanity.com) - Stay on top of the latest breakthroughs.
 *   TensorFlow documentation (www.tensorflow.org/api_docs) & PyTorch documentation (pytorch.org/docs/stable/index.html) - RTFM! (Read The Fine Manual!) 😉
+    *   [TensorFlow & Keras Tips and Tricks](tips-and-tricks-tensorflow-keras.md) - Power up your deep learning skills with these tips.
 
 ### Best Practices - Pro Tips for Deep Learning Success 😎
 

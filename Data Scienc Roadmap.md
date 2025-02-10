@@ -6,6 +6,32 @@ Hey there, future Data Scientists! 👋
 
 Welcome to your friendly guide to conquering the Data Science world in 2025! This roadmap is designed to be your go-to resource, whether you're just starting out or looking to level up your skills. We'll break down the journey into manageable phases, from the very basics to the cutting-edge stuff. Let's dive in and make your data science dreams a reality!
 
+## Index
+
+### Phases
+1. [Phase 1: Foundations - Let's Get Started!](#phase-1-foundations---lets-get-started-rocket)
+    - [Mathematics](#mathematics---math-is-your-superpower-superhero_woman)
+    - [Programming](#programming---code-your-way-to-data-mastery-computer)
+    - [Data Manipulation](#data-manipulation---taming-the-data-beast-lion)
+2. [Phase 2: Core Skills](#phase-2-core-skills)
+    - [Machine Learning](#machine-learning-where-the-magic-happens-sparkles)
+        - [Supervised Learning](#supervised-learning-learning-with-a-teacher-apple)
+        - [Unsupervised Learning](#unsupervised-learning-finding-patterns-without-a-teacher-person_raising_hand_woman-detective)
+        - [Model Evaluation](#model-evaluation-are-we-winning-yet-trophy)
+        - [Hyperparameter Tuning](#hyperparameter-tuning-making-your-models-sing-notes)
+    - [Deep Learning](#deep-learning-for-data-science-lets-get-advanced-rocket-1)
+3. [Phase 3: Advanced Topics](#phase-3-advanced-topics)
+    - [MLOps](#mlops-making-models-work-in-the-real-world-gear---no-more-lab-rats-test_tubeearth)
+    - [Real-World Projects](#real-world-projects-your-data-science-portfolio-starter-pack-briefcase---show-the-world-what-you-can-do-earth)
+### Emerging Trends and Technologies
+- [Explainable AI (XAI)](#explainable-ai-xai---making-ai-transparent-and-trustworthy-light_bulb)
+- [Federated Learning](#federated-learning-collaborative-learning-data-privacy-first-people_holding_hands)
+- [Edge AI](#edge-ai-ai-closer-to-the-action-pushpin)
+- [Automated Machine Learning (AutoML)](#automated-machine-learning-automl---ai-for-ai-robot_face)
+- [Reinforcement Learning](#reinforcement-learning-learning-through-interaction-video_game_controller)
+- [Generative AI](#generative-ai-unleashing-ais-creative-potential-artist_palette)
+- [Quantum Machine Learning](#quantum-machine-learning-the-future-is-quantum-atom)
+
 ## Phases
 
 1.  **Phase 1: Foundations - Let's Get Started!** 🚀

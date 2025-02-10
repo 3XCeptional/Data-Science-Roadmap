@@ -16,7 +16,13 @@ This roadmap provides a comprehensive guide for aspiring and experienced data sc
 
 2.  **Phase 2: Core Skills**
     *   Machine Learning
+        *   Skills: Supervised learning (regression, classification), unsupervised learning (clustering, dimensionality reduction), model evaluation, hyperparameter tuning.
+        *   Technologies: Scikit-learn, TensorFlow, PyTorch.
+        *   Resources: Online courses (e.g., fast.ai, Udacity), textbooks, research papers.
     *   Deep Learning
+        *   Skills: Neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), natural language processing (NLP), computer vision.
+        *   Technologies: TensorFlow, PyTorch, Keras.
+        *   Resources: Online courses (e.g., DeepLearning.AI, MIT Deep Learning), research papers.
 
 3.  **Phase 3: Advanced Topics**
     *   MLOps

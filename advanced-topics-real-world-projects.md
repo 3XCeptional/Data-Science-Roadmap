@@ -88,3 +88,11 @@ Real-world projects are rarely linear, step-by-step processes. Expect twists and
 **Starting Point:** [Phase 3: Advanced Topics - MLOps](advanced-topics-mlops.md) - Previous topic: MLOps.
 
 **Ending Point:** [Emerging Trends and Technologies - Explainable AI (XAI)](emerging-trends-xai.md) - Continue to Emerging Trends: Explainable AI (XAI).
+
+---
+
+## Navigation
+
+**Starting Point:** [Phase 3: Advanced Topics - MLOps](advanced-topics-mlops.md) - Previous topic: MLOps.
+
+**Ending Point:** [Emerging Trends and Technologies - Explainable AI (XAI)](emerging-trends-xai.md) - Continue to Emerging Trends: Explainable AI (XAI).

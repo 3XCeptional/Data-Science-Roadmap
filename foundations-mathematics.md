@@ -52,3 +52,11 @@ Machine learning models learn by optimization, and gradient descent is the workh
 *   Don't Be Afraid to Ask for Help: Math can be challenging! Don't hesitate to ask questions, seek help from online communities, forums, or study groups.  We're all in this together! 🧑‍🤝‍🧑
 
 ## Author - 3XCeptional
+
+---
+
+## Navigation
+
+**Starting Point:** [Data Science Roadmap 2025](Data Scienc Roadmap.md) - Back to the main roadmap index.
+
+**Ending Point:** [Phase 1: Foundations - Programming](foundations-programming.md) - Continue to the next topic: Programming.

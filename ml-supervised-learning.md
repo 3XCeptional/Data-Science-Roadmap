@@ -95,3 +95,11 @@ print(f'Accuracy: {accuracy}') # How often is the classifier correct?
 **Starting Point:** [Phase 2: Core Skills - Machine Learning](core-skills-machine-learning.md) - Back to Machine Learning core skills.
 
 **Ending Point:** [Phase 2: Core Skills - Machine Learning - Unsupervised Learning](ml-unsupervised-learning.md) - Continue to the next sub-topic: Unsupervised Learning.
+
+---
+
+## Navigation
+
+**Starting Point:** [Phase 2: Core Skills - Machine Learning](core-skills-machine-learning.md) - Back to Machine Learning core skills.
+
+**Ending Point:** [Phase 2: Core Skills - Machine Learning - Unsupervised Learning](ml-unsupervised-learning.md) - Continue to the next sub-topic: Unsupervised Learning.

@@ -78,4 +78,4 @@ Start your Data Science journey today with the Data Science Roadmap 2025! Happy 
 
 **Starting Point:** [README.md](README.md) - You are here!
 
-**Ending Point:** [Data Science Roadmap 2025](Data Science Roadmap.md) - Explore the main roadmap.
+**Ending Point:** [Data Science Roadmap 2025](Data-Science-Roadmap.md) - Explore the main roadmap.
